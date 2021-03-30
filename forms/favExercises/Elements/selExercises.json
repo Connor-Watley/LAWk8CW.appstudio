@@ -32,7 +32,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "multiSelect": "",
+  "multiSelect": "true",
   "name": "",
   "onchange": "",
   "onclick": "",
