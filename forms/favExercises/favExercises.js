@@ -13,12 +13,13 @@ favExercises.onshow = function() {
 
 }
 Button3.onclick = function() {
-    results = selExercises.text.includes("situps", "plank")
+    results1 = selExercises.text.includes("plank")
+    results2 = selExercises.text.includes("situps")
     console.log(results)
-    if (results == true) {
+    if (results1 == true && results2 == true) {
         Label1.value = `You chose situps and planks - those are the two core exercises. `
     } else {
-        Label1.value = ``
+        Label1.value = `you did not pick two core exercises`
     }
 }
 
