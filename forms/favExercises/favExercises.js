@@ -15,7 +15,7 @@ favExercises.onshow = function() {
 Button3.onclick = function() {
     results1 = selExercises.text.includes("plank")
     results2 = selExercises.text.includes("situps")
-    console.log(results)
+    
     if (results1 == true && results2 == true) {
         Label1.value = `You chose situps and planks - those are the two core exercises. `
     } else {
