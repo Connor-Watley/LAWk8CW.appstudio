@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "Button3",
-  "left": 18,
+  "left": 32,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 318,
+  "top": 331,
   "value": "Button",
   "width": "auto"
 }
